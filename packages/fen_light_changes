@@ -1,3 +1,2 @@
-[COLOR red][B]Online Release Version 2.1.0[/B][/COLOR]
-- Added 'Play # episodes' option to play a set number of episodes. After that, your default autoplay settings will take over.
-- Removed future years from collections. These are now generated based on the current date to future-proof.
+[COLOR red][B]Online Release Version 2.1.01[/B][/COLOR]
+- Added "Providers UK" to the TV and Movies menus. You might need to use the "Check for new menu items" option in the context menu. 
