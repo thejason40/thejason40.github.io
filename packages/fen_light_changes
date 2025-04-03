@@ -1,3 +1,2 @@
-[COLOR red][B]Online Release Version 2.1.02[/B][/COLOR]
-- Added "Trending UK" and "Trending Recent UK" to the TV and Movies menus. You might need to use the "Check for new menu items" option in the context menu.
-- Updated the icon to something much more ugly. 
+[COLOR dodgerblue][B]Version 2.1.20[/B][/COLOR]
+- Added alternative Real Debrid API option for if the main API URL is blocked.
