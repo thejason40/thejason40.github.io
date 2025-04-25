@@ -5,3 +5,6 @@
 	- Clear list cache from context menu if it's been updated on the TMDB website.
 	- Set list artwork from inside the list
 - Fixed 'Play # Episodes' so it works more as intended. 
+
+[COLOR dodgerblue][B]Version 2.2.06[/B][/COLOR]
+- Fixed a bug where the confirmation box was covered when importing a Trakt list to TMDB.
