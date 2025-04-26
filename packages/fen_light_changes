@@ -8,3 +8,6 @@
 
 [COLOR dodgerblue][B]Version 2.2.06[/B][/COLOR]
 - Fixed a bug where the confirmation box was covered when importing a Trakt list to TMDB.
+
+[COLOR dodgerblue][B]Version 2.2.07[/B][/COLOR]
+- Fixed a bug where TMDB List Manager wouldn't open when adding a sinlge movie or show.
