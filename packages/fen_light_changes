@@ -11,3 +11,6 @@
 
 [COLOR dodgerblue][B]Version 2.2.07[/B][/COLOR]
 - Fixed a bug where TMDB List Manager wouldn't open when adding a sinlge movie or show.
+
+[COLOR dodgerblue][B]Version 2.2.08[/B][/COLOR]
+- Fixed a bug where TMDB Lists didn't show if set to "private".
