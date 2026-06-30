@@ -2,6 +2,6 @@
    "versionName": "0.8.2",
    "versionCode": 10,
    "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.2.apk",
-   "releaseNotes": "Added option to select playback source from the app (FenLight+ 2.3.0 of higher required).\nFixed built in updater."
+   "releaseNotes": "Added option to select playback source from the app (FenLight+ 2.3.0 of higher required).\nFixed built in updater.",
    "sha256": "75D507875D79020A2BA1D5CD00EA152D46DFE9224BD5A7482407DBE37BDAD03C"
 }
