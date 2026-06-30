@@ -1,6 +1,6 @@
  {
-   "versionName": "0.7.1",
-   "versionCode": 7,
-   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.7.1.apk",
-   "releaseNotes": "Added playback options. Added 'Now Playing' bar."
+   "versionName": "0.8.0",
+   "versionCode": 8,
+   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.0.apk",
+   "releaseNotes": "Added option to select playback source from the app. FenLight+ 2.3.0 of higher required."
   }
