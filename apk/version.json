@@ -1,7 +1,7 @@
 {
-   "versionName": "0.8.3",
-   "versionCode": 11,
-   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.3.apk",
-   "releaseNotes": "Added option to select playback source from the app (FenLight+ 2.3.0 of higher required).\nFixed built in updater.",
-   "sha256": "0799B106F84D7964587BEB236AD35C2F1C7D7C3C6781869D751E402CDA50F79B"
+   "versionName": "0.8.5",
+   "versionCode": 12,
+   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.5.apk",
+   "releaseNotes": "Added TorBox sign in option.\nFixed Trakt ""watched"" API calls.",
+   "sha256": "7A2A404196FEBD5CDB670DB84BB6FBC0E25607F8F1FD461393FA76C5AF2C4E7B"
 }
