@@ -2,6 +2,6 @@
    "versionName": "0.8.5",
    "versionCode": 12,
    "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.5.apk",
-   "releaseNotes": "Added TorBox sign in option.\nFixed Trakt ""watched"" API calls.",
+   "releaseNotes": "Added TorBox sign in option.\nFixed Trakt 'watched' API calls.",
    "sha256": "7A2A404196FEBD5CDB670DB84BB6FBC0E25607F8F1FD461393FA76C5AF2C4E7B"
 }
