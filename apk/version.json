@@ -1,7 +1,7 @@
 {
    "versionName": "0.8.6",
    "versionCode": 13,
-   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.5.apk",
+   "apkUrl": "https://thejason40.github.io/apk/FenLight_Companion-0.8.6.apk",
    "releaseNotes": "Added option to add torrent to debrid service.\nAdded TorBox 'airlock' option.",
    "sha256": "EFC8A575C781F610B48D2401806DEE83F6FEA04DA42682C999341AB99488811E"
 }
